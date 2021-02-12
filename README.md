@@ -1,1 +1,1 @@
-[![FunctionalMetatable's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunctionalMetatable)](https://github.com/anuraghazra/github-readme-stats)
+[![FunctionalMetatable's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunctionalMetatable&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
