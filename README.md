@@ -1,8 +1,5 @@
-I'm 9gr on scratch!<br>
-yeeeeeeeeeeeeeeeeeeeeet <br>
-FunctionalMetatable.github.io<br>
-im in secondary school<br>
-
+hello<br>i am 9gr on scratch btw<br>i am a beginner in javascript<br>yeet<br>
+my stats<br>
 [![FunctionalMetatable's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunctionalMetatable&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
